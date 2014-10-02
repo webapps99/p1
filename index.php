@@ -41,9 +41,9 @@
 
     <img src='images/cnystrom.jpg' alt='Chris Nystrom' height="300" width="42">
 
-    <h3>Project 2 Title</h3>
-    View: [link]
-    Github: [link]
+    <h3>xkcd Password Generator</h3>
+    <a href="http://p2.dwa15-cnystrom.com/">View Site</a> <br>
+    <a href="https://github.com/webapps99/p2.git">Github Repository</a>
 
     <h3>Project 3 Title</h3>
     View: [link]
