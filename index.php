@@ -45,9 +45,9 @@
     <a href="http://p2.dwa15-cnystrom.com/">View Site</a> <br>
     <a href="https://github.com/webapps99/p2.git">Github Repository</a>
 
-    <h3>Project 3 Title</h3>
-    View: [link]
-    Github: [link]
+    <h3>Laravel - A Developer's Best Friend</h3>
+    <a href="http://p3.dwa15-cnystrom.com/">View Site</a> <br>
+    <a href="https://github.com/webapps99/p3.git">Github Repository</a>
 
     <h3>Project 4 Title</h3>
     View: [link]
